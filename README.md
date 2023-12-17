@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @udze1
-- 👀 I’m interested in Machine learning and NLP
-- 🌱 I’m currently learning Data science at City, University of London
+- 👀 I’m interested in Machine learning, Reinforcement learning and Computer Vision
+- 🌱 I’m currently studying Data science at City, University of London
 - I'm looking for opportunities as a Graduate Data Scientist or ML Engineer
 
 
