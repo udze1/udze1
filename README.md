@@ -1,5 +1,4 @@
-Building ML like a retard with no knowledge and no coding skills
-
+I only like reading papers about SoTA models I will never implement 
 
 <!---
 udze1/udze1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
